@@ -1,1 +1,2 @@
 HealthTracker backend development work for HTAPP-22
+Health data synchronization endpoint work for HTAPP-22
